@@ -1,6 +1,9 @@
 [package]
 name = "aabb-collision"
 version = "0.1.0"
-edition = "2024"
+repository = "https://github.com/casey-digennaro/aabb-collision"
+description = "Rust crate"
+license = "MIT"
+edition = "2021"
 
 [dependencies]
